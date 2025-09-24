@@ -16,7 +16,7 @@ const bannerItems = [
   {
     imagem:"./src/assets/Game3.jpg",
     titulo:"Coach City- Treino pra vida",
-    descricao:"Com grandes códfigos vem grandes projetos",
+    descricao:"Com grandes códigos vem grandes projetos",
   }
 ];
 
