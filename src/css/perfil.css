@@ -20,8 +20,8 @@ header {
     padding: 0 10px;
 }
 .logo {
-    width: 90px;
-    height: 63px;
+    width: 80px;
+    height: 56px;
     transition: 1s ease;
 }
 .logo:hover {
@@ -87,6 +87,10 @@ header {
     flex-direction:column;
     align-items:center;
     text-align: center;
+    transition: .5s;
+}
+.perfil-card:hover {
+    transform: scale(110%);
 }
 .perfil-card h3{
     color:#fff;
